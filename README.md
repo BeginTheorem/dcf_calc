@@ -13,4 +13,4 @@ or
 ```powershell
 python ./calculator.py
 ```
-4. It'll explain the rest himself.
+4. It'll explain the rest itself.
