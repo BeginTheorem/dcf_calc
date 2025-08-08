@@ -67,7 +67,7 @@ class CashFlow:
         print(f'Расходы: {format(d_in,".2f")}₽;')
         print(f'Доходы: {format(d_out,".2f")}₽;')
         print(f'Прибыль: {format(d_out-d_in,".2f")}₽;')
-        print(f'IS: {format(((d_out/d_in)**(365.25/self.duration)-1)*100,".2f")}% годовых;')
+        print(f'Рентабильность: {format(((d_out/d_in)**(365.25/self.duration)-1)*100,".2f")}% годовых;')
     ######################################################################
     def print_irr(self):
         roots = numpy.roots(self.values[::-1])
