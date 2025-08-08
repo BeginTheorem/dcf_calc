@@ -1,7 +1,7 @@
 # Calendar discounted cash flows calculator
 A simple Python script for calculating the internal rate of return (IRR) of a calendar cash flow. 
 ## Dependencies:
-Python libraries `csv`, `datetim`, `numpy`.
+Python libraries `csv`, `datetime`, `numpy`.
 ## How to use:
 1. Download both files `calculator.py` and `Транзакции.csv` to the same directory.
 2. Write down your cash flow in the file `Транзакции.csv` as date-sum pairs separated by a space. Dates should be specified in the `dd.mm.yyyy` format. Investments are negative, profits are positive.
