@@ -13,7 +13,7 @@ or
 ```powershell
 python ./calculator.py
 ```
-4. It'll explain the rest itself.
+4. It'll explain the rest itself (in Russian). To calculate IRR, enter `irr`
 ## Disclaimer of liability:
 The software is provided as is. The author is not responsible for his incorrect work.
 Bug reports are **welcome**. Suggestions of new features are **not welcome**. The repository is updated irregularly. This is my tribute to the free software world, but the main purpose of this script is to satisfy my personal needs.
